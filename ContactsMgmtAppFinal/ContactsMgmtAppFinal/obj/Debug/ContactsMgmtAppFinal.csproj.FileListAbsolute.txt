@@ -1,0 +1,14 @@
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\bin\Debug\ContactsMgmtAppFinal.exe.config
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\bin\Debug\ContactsMgmtAppFinal.exe
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\bin\Debug\ContactsMgmtAppFinal.pdb
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.csproj.AssemblyReference.cache
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.Forms.ContactTypesForm.resources
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.MainForm.resources
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.Properties.Resources.resources
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.csproj.GenerateResource.cache
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.csproj.CoreCompileInputs.cache
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.exe
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.pdb
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.ContactsRes.resources
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.Forms.ContactEditForm.resources
+C:\Users\mashu\source\repos\ContactsMgmtAppFinal\ContactsMgmtAppFinal\obj\Debug\ContactsMgmtAppFinal.ErrorRes.resources
